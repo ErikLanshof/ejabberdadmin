@@ -1,0 +1,4 @@
+ejabberdadmin
+=============
+
+ejabberdAdmin
